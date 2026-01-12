@@ -1,0 +1,41 @@
+================================================================================
+HUGGING FACE TEXT-TO-IMAGE MODELS
+Generated: 2026-01-11 16:51:55
+================================================================================
+
+Model: runwayml/stable-diffusion-v1-5
+  Author: stable-diffusion-v1-5
+  Pipeline: text-to-image
+  Library: diffusers
+  Downloads: 1546686
+  Tags: diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, arxiv:2207.12598, arxiv:2112.10752, arxiv:2103.00020, arxiv:2205.11487, arxiv:1910.09700, license:creativeml-openrail-m, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us
+
+Model: stabilityai/stable-diffusion-2-1
+  Error: 401 Client Error. (Request ID: Root=1-696387d2-093e4feb5a04189d0f136fcb;d25a102a-20f2-4414-9fa4-d6ad64210f0d)
+
+Repository Not Found for url: https://huggingface.co/api/models/stabilityai/stable-diffusion-2-1.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password.
+
+Model: CompVis/stable-diffusion-v1-4
+  Author: CompVis
+  Pipeline: text-to-image
+  Library: diffusers
+  Downloads: 396612
+  Tags: diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, arxiv:2207.12598, arxiv:2112.10752, arxiv:2103.00020, arxiv:2205.11487, arxiv:1910.09700, license:creativeml-openrail-m, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us
+
+Model: stabilityai/stable-diffusion-xl-base-1.0
+  Author: stabilityai
+  Pipeline: text-to-image
+  Library: diffusers
+  Downloads: 1757641
+  Tags: diffusers, onnx, safetensors, text-to-image, stable-diffusion, arxiv:2307.01952, arxiv:2211.01324, arxiv:2108.01073, arxiv:2112.10752, license:openrail++, endpoints_compatible, diffusers:StableDiffusionXLPipeline, deploy:azure, region:us
+
+Model: runwayml/stable-diffusion-inpainting
+  Author: stable-diffusion-v1-5
+  Pipeline: text-to-image
+  Library: diffusers
+  Downloads: 144961
+  Tags: diffusers, stable-diffusion, stable-diffusion-diffusers, text-to-image, arxiv:2207.12598, arxiv:2112.10752, arxiv:2103.00020, arxiv:2205.11487, arxiv:1910.09700, license:creativeml-openrail-m, diffusers:StableDiffusionInpaintPipeline, region:us
+
